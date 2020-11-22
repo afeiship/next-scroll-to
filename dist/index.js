@@ -3,7 +3,7 @@
  * description: Scroll to api.
  * homepage: https://github.com/afeiship/next-scroll-to
  * version: 1.0.0
- * date: 2020-11-22 18:14:12
+ * date: 2020-11-22 18:14:58
  * license: MIT
  */
 
