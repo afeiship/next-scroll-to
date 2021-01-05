@@ -3,12 +3,12 @@
  * description: Scroll to api.
  * homepage: https://github.com/afeiship/next-scroll-to
  * version: 1.0.0
- * date: 2020-11-22 18:14:58
+ * date: 2021-01-05 14:27:37
  * license: MIT
  */
 
 (function () {
-  var global = global || this || window || Function('return this')();
+  var global = window || global || this || Function('return this')();
   var nx = global.nx || require('@jswork/next');
   var DEFAULT_OPTIONS = { el: global, to: 'top' };
 
