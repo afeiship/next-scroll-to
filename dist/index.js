@@ -2,8 +2,8 @@
  * name: @jswork/next-scroll-to
  * description: Scroll to api.
  * homepage: https://github.com/afeiship/next-scroll-to
- * version: 1.0.0
- * date: 2021-01-05 14:27:37
+ * version: 1.0.1
+ * date: 2021-01-05 14:28:23
  * license: MIT
  */
 
