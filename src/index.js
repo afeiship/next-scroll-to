@@ -1,5 +1,5 @@
 (function () {
-  var global = window || global || this || Function('return this')();
+  var global = global || window || Function('return this')();
   var nx = global.nx || require('@jswork/next');
   var DEFAULT_OPTIONS = { el: global, to: 'top' };
 
